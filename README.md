@@ -9,7 +9,7 @@
 <h3>Instalação</h3>
 <p>A IDE é uma versão melhorada do Eclipse, portanto pode ser obtida pelos próprios recursos do Eclipse, mas pode também pode ser instalada individualmente, dessa forma:</p>
 <ul>
-    <li>Indo para o site oficial: <a href='https://spring.io/tools'>Site oficial do Spring</a></li>
+    <li>Indo para o site oficial: <a href='https://spring.io/tools' target='_blank'>Site oficial do Spring</a></li>
     <li>Fazendo o download do instalador.</li>
     <li>Executando o instalador.</li>
     <li>Seguindo o Wizard de instalação.</li>
@@ -27,7 +27,7 @@
 <h3>Instalação</h3>
 <p>Instalar o Java significa instalar o JDK (Java Development Kit), que engloba a JRE e a JVM. A JRE poderá ser configurada na IDE, para a execução das aplicações Java. Instala-se o JDK da seguinte forma:</p>
 <ul>
-    <li>Indo para o site da Oracle, na parte de downloads, e baixando o instalador:  <a href='https://www.oracle.com/java/technologies/downloads/'>Site oficial para instalação do JDK</a>.</li>
+    <li>Indo para o site da Oracle, na parte de downloads, e baixando o instalador:  <a href='https://www.oracle.com/java/technologies/downloads/'target='_blank'>Site oficial para instalação do JDK</a>.</li>
     <li>Seguindo os passos de instalação do Wizard.</li>
     <li>Configurando o JDK instalado como variável de ambiente:<br>
      <img src="src/var.JPG"/>
