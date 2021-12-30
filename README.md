@@ -36,3 +36,17 @@
     <li>Verificando a versão pela linha de comando:<img src='src/cmd.JPG'>
     </li>
 </ul>
+
+<h2>MySQL</h2>
+<h3>Definição</h3>
+<p>O MySQL é um SGBD (Sistema Gerenciador de Banco de Dados), tecnologia usada para o armazenamento de dados da aplicação e tratamentos variantes, como buscas, atualizações e exclusões. Usa a linguagem SQL para tais operações e pode ser utilizado pela linha de comando ou por meio do MySQL Workbench, uma ferramenta gráfica com vários recursos.</p>
+<h3>Versão instalada</h3>
+<p>8.0.23</p>
+<h3>Instalação</h3>
+<ul>
+    <li>Baixar o instalador  <a href='https://dev.mysql.com/downloads/installer/'target='_blank'>Site oficial para instalação do MySQL</a>.</li>
+    <li>Seguir os passos de instalação do Wizard, definindo dados como senha e usuário.</li>
+    <li>Poderá ser verificado no Command Line Client e no MySQL Workbench, cujas interfaces serão como essas: <img src='src/clc.JPG'><br><img src='src/wkb.JPG'>
+    </li>
+    
+</ul>
