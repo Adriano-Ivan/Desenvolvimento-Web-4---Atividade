@@ -1,4 +1,4 @@
-<h1>FERRAMENTAS DE DESENVOLVIEMNTO INSTALADAS</H1>
+<h1>FERRAMENTAS DE DESENVOLVIMENTO INSTALADAS</H1>
 <h2>Sistema Operacional</h2>
 <p>Windows 10 Home</p>
 <h2>Spring Tool Suite</h2>
@@ -15,7 +15,7 @@
     <li>Seguindo o Wizard de instalação.</li>
     <li>Verificando se foi instalado com sucesso.</li>
     <li>A aparência da IDE será próxima disso:<br>
-     <img src="testePasta/spring.JPG"/>
+     <img src="src/spring.JPG"/>
     </li>
 
 </ul>
