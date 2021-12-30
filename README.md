@@ -1,5 +1,5 @@
 <h1>FERRAMENTAS DE DESENVOLVIMENTO INSTALADAS</H1>
-<h2>Sistema Operacional</h2>
+<h2>Sistema Operacional no qual as ferramentas foram instaladas</h2>
 <p>Windows 10 Home</p>
 <h2>Spring Tool Suite</h2>
 <h3>Definição</h3>
@@ -47,6 +47,21 @@
     <li>Baixar o instalador  <a href='https://dev.mysql.com/downloads/installer/'target='_blank'>Site oficial para instalação do MySQL</a>.</li>
     <li>Seguir os passos de instalação do Wizard, definindo dados como senha e usuário.</li>
     <li>Poderá ser verificado no Command Line Client e no MySQL Workbench, cujas interfaces serão como essas: <img src='src/clc.JPG'><br><img src='src/wkb.JPG'>
+    </li>
+    
+</ul>
+
+<h2>Git</h2>
+<h3>Definição</h3>
+<p>Git é uma ferramenta de versionamento, ou seja, ao iniciá-lo em um projeto, é possível fazer coisas como criar diferentes ramificações de versões do projeto (possibilitando que vários membros de uma equipe possam trabalhar em partes diferentes e que depois possam juntá-las),criar históricos de mudança (possibilitando que cada membro saiba quem fez alguma coisa específica) e retornar a estágios anteriores do desenvolvimento (possiblitando a verificação de erros, por exemplo).</p>
+<p>A tecnologia Git possibilita tudo isso, porém é apenas uma tecnologia local. Suas versões remotas, como o GitHub, expandem a capacidade do Git para a colaboração entre pessoas de todo mundo, caso tenham internet e conta em um site como esse. </p>
+<h3>Versão instalada</h3>
+<p>2.30.1</p>
+<h3>Instalação</h3>
+<ul>
+    <li>Baixar o instalador  <a href='https://git-scm.com/downloads'target='_blank'>Site oficial para instalação do Git</a>.</li>
+    <li>Executar o instaldor e seguir os passos de instalação do Wizard.</li>
+    <li>Será instalado um Git Bash. Os comandos poderão ser executado normalmente, mas o Git Bash possibilita a execução de comandos como os das distribuições Linux: <img src='src/git.JPG'><br><img src='src/g-v.JPG'>
     </li>
     
 </ul>
