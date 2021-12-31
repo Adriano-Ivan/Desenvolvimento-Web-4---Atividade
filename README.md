@@ -97,7 +97,7 @@
 
 <h2>Httpie</h2>
 <h3>Definição</h3>
-<p>Com o Httpie, é possível testar requisições por linha de comando</p>
+<p>Com o Httpie, é possível testar requisições por linha de comando.</p>
 <h3>Versão instalada</h3>
 <p>2.6.0</p>
 <h3>Instalação</h3>
