@@ -65,3 +65,17 @@
     </li>
     
 </ul>
+
+<h2>Node.js</h2>
+<h3>Definição</h3>
+<p> Node.js é um framework do JavaScript que permite a execução de códigos dessa linguagem em ambientes fora do navegador, e é usado para a construção da parte server-side da aplicação, e atualmente é uma das tecnologias mais usadas no back-end, juntamente com o Java. Utilizando o framework Express, torna-se fácil a criação de servidores. Seu gerenciador de dependências, o NPM, possibilita a obtenção de plugins (como o Express) de forma rápida e prática, apenas utlizando a linha de comando a partir da raiz de um projeto.</p>
+<h3>Versão instalada</h3>
+<p>14.18.0</p>
+<h3>Instalação</h3>
+<ul>
+    <li>Baixar o instalador  <a href='https://nodejs.org/en/'target='_blank'>Site oficial para instalação do Node</a>.</li>
+    <li>Executar o instalador e seguir os passos de instalação do Wizard.</li>
+    <li>Será instalado um bash do Node, que permitirá a execução de código JavaScript em um ambiente fora do navegador. Mas isso não é o mais importante: para testar, basta criar uma pasta qualquer e digitar o comando 'npm init', e isso criará um projeto Node. Para saber se está funcionando, basta verificar se foi criado um arquivo 'package.json',que conterá informações do projeto. O comando 'node --version', na linha de comando, mostrará a versão do Node. <img src='src/node-site.JPG'><br><img src='src/node-version.JPG'>
+    </li>
+    
+</ul>
