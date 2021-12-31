@@ -79,3 +79,18 @@
     </li>
     
 </ul>
+
+<h2>Postman</h2>
+<h3>Definição</h3>
+<p>Quando são criadas aplicações server-side, é possível que uma opção seja a criação de um Web Service ou API. Aplicações que 'oferecem um serviço' (Web Service), ou que servem como 'interfaces de programação de aplicação' (API), simplesmente funcionam como aplicações que executam os métodos HTTP correspondentes a um CRUD (os métodos DELETE (para exclusão de dados), PATCH(para atualização), GET (para recuperar todos os dados de uma entidade ou de um elemento específico) e POST (para inserção)), e que retornam dados em formato XML ou JSON. O fato de essas aplicações trabalharem apenas com os dados permite que elas sejam aproveitadas por várias aplicações: os dados e funcionalidades de uma API podem ser requisitados tanto por uma aplicação da Web, quanto por uma aplicação Mobile, e isso elimina a necessidade de criar um serviço para cada aplicação. Se houver necessidade de serviço para 10 aplicações, o uso de uma API elimina a necessidade de criar 9 outros serviços.</p>
+<p>Esse método de criar aplicações é uma arquitetura denominada REST (Representational State Transfer).</p>
+<p>E como testar essas aplicações ? Se trabalham apenas com os dados, como verificar sua eficiência durante o desenvolvimento ? Para isso, existem clientes HTTP como o Postman. O Postman é um cliente (pois é ele quem faz as requisições e recebe o serviço) HTTP que oferece a funcionalidade de fazer testes de requisição, verificando as respostas recebidas, para analisar se elas são as esperadas. Basta associar cada URL com o seu método HTTP correspondente e enviar a requisição, verificando a resposta depois. Por permitir a criação de várias pastas e requisições separadas e organizadas, também se torna uma ferramenta de documentação de APIs, e não só de testes.</p>
+<h3>Versão instalada</h3>
+<p>9.7.1</p>
+<h3>Instalação</h3>
+<ul>
+    <li>Baixar o instalador e executar. Também é possível utilizar a versão da Web da aplicação. É provável que seja solicitado um registro em ambos os casos. <a href='https://www.postman.com/downloads/'target='_blank'>Site oficial para instalação do Postman</a>.</li>
+    <li>O Postman é bem intuitivo, bastando explorar a interface da aplicação para saber como ela funciona. Os trabalhos de testes e documentação são feitos em 'My Workspace'. A aplicação vem com a interface branca por padrão, mas o modo noturno pode ser configurado.<img src='src/postman-inst.JPG'><br><img src='src/postman-int.JPG'>
+    </li>
+    
+</ul>
