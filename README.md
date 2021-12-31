@@ -106,7 +106,7 @@
     <li>Ter a pasta Scripts da instalação do Python como variável de ambiente, para utilização do gerenciador pip.</li>
     <li>Utilizar o comando 'pip install -U httpie'.</li>
     <li>Fechar a linha de comando e abrir novamente.<li>
-    <li>Testar uma requisição.
+    <li>Testar uma requisição.<br>
     <img src='src/inst-pie.JPG'><br><img src='src/req-ex.JPG'><br><img src='src/var-p.JPG'></li>
    
    
