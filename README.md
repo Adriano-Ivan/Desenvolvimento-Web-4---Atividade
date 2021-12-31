@@ -94,3 +94,21 @@
     </li>
     
 </ul>
+
+<h2>Httpie</h2>
+<h3>Definição</h3>
+<p>Com o Httpie, é possível testar requisições por linha de comando</p>
+<h3>Versão instalada</h3>
+<p>2.6.0</p>
+<h3>Instalação</h3>
+<ul>
+    <li>Ter o Python instalado.</li>
+    <li>Ter a pasta Scripts da instalação do Python como variável de ambiente, para utilização do gerenciador pip.</li>
+    <li>Utilizar o comando 'pip install -U httpie'</li>
+    <li>Fechar a linha de comando e abrir novamente<li>
+    <li>Testar uma requisição.
+    <img src='src/inst-pie.JPG'><br><img src='src/req-ex.JPG'><br><img src='src/var-p.JPG'></li>
+   
+   
+    
+</ul>
