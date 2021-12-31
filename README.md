@@ -61,7 +61,7 @@
 <ul>
     <li>Baixar o instalador  <a href='https://git-scm.com/downloads'target='_blank'>Site oficial para instalação do Git</a>.</li>
     <li>Executar o instalador e seguir os passos de instalação do Wizard.</li>
-    <li>Será instalado um Git Bash. Os comandos poderão ser executado normalmente, mas o Git Bash possibilita a execução de comandos como os das distribuições Linux: <img src='src/git.JPG'><br><img src='src/g-v.JPG'>
+    <li>Será instalado um Git Bash. Os comandos poderão ser executados normalmente, mas o Git Bash possibilita a execução de comandos como os das distribuições Linux: <img src='src/git.JPG'><br><img src='src/g-v.JPG'>
     </li>
     
 </ul>
